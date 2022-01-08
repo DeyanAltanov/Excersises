@@ -1,1 +1,0 @@
-You will receive an integer as an input from the console. Print the 10 times table for this integer. See the examples below for more information.
