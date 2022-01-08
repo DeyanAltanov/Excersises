@@ -1,0 +1,4 @@
+Modify the PASSED program, so it will print "Failed!" if the grade is lower than 3.00.
+
+Input
+The input comes as a single double number.
