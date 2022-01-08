@@ -12,7 +12,7 @@ You will be given an integer and you have to print on the console whether that n
 
 Vacation
 You are given a group of people, type of the group, on which day of the week they are going to stay. Based on that information calculate how much they have to pay and print that price on the console. Use the table below. In each cell is the price for a single person. The output should look like that: "Total price: {price}". The price should be formatted to the second decimal point.
-	          Friday	Saturday	Sunday
+	          Friday	Saturday    Sunday
 Students	  8.45	  	9.80	    10.46
 Business	  10.90	  	15.60	    16
 Regular	          15	    	20	    22.50
@@ -88,10 +88,10 @@ Otherwise calculate the cookies and print the number of boxes you get for the cu
 "Boxes of cookies: {boxes of cookies per current bake}"
 Item	                Grams
 Single cookie Grams 	25
-Cup	                  140
-Small Spoon	          10
-Big Spoon	            20
-Cookies per Box	      5
+Cup	                140
+Small Spoon	        10
+Big Spoon	        20
+Cookies per Box	        5
 When you finish baking, pack the all the cookies in boxes and send them to Santa and his dwarfs and print the total number of boxes on the console.  
 "Total boxes: {totalBoxes for all bakes}"
 Input
