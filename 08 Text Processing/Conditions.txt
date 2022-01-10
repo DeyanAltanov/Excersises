@@ -1,0 +1,24 @@
+Substring
+On the first line you will receive a string. On the second line, you will receive a second string. Write a program that removes all of the occurrences of the first string in the second until there is no match. At the end, print the remaining string.
+
+Reverse Strings
+You will be given series of strings until you receive an “end” command. Write a program that reverses strings and print word and reversed word on separate line in format "{word} = {reversed word}".
+
+Repeat strings
+Write a program that reads an array of strings. Each string is repeated n times, where n is the length of the string. Print the concatenated string.
+
+Text Filter
+Write a program that takes a text and a string of banned words. All words included in the ban list should be replaced with asterisks "*", equal to the word's length. The entries in the ban list will be separated by a comma and space ", ".
+The ban list should be entered on the first input line and the text on the second input line.
+
+Count string occurrences
+Write a program that receives a text and a string to search for. Use spaces, commas, dots, question marks and exclamation marks as word delimiters. Print all the occurrences of that word in the string.
+
+Palindromes
+Write a program that extracts from a given text all palindromes, e.g. ABBA, lamal, exe and prints them on the console on a single line, separated by comma and space. Use spaces, commas, dots, question marks and exclamation marks as word delimiters. Print only unique palindromes, sorted natural order.
+
+Character Multiplier
+Create a method that takes two strings as arguments and returns the sum of their character codes multiplied (multiply str1[0] with str2[0] and add to the total sum). Then continue with the next two characters. If one of the strings is longer than the other, add the remaining character codes to the total sum without multiplication.
+
+Extract File
+Write a program that reads the path to a file and subtracts the file name and its extension.
